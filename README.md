@@ -10,20 +10,9 @@ The application is **currently running** at **http://127.0.0.1:5000**
 
 ---
 
-## 📖 Documentation Files
-
-This project includes comprehensive documentation:
-
-| Document | Purpose |
-|----------|---------|
-| **README.md** (this file) | Quick overview and entry point |
-| **QUICK_START.md** | Getting started guide with features |
-| **PROJECT_SUMMARY.md** | Complete project architecture |
-| **FILE_STRUCTURE.md** | Detailed file-by-file breakdown |
-| **DATA_OVERVIEW.md** | Dataset statistics and analysis |
+In the Flask.zip file ectract all the data in flask folder to get remaining files and machine learning model
 
 ---
-
 ## 🎯 What This Project Does
 
 **Restaurant Recommender** is a web application that helps users discover restaurants similar to ones they already enjoy.
