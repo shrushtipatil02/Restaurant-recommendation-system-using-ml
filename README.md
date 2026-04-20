@@ -4,12 +4,6 @@
 
 ---
 
-## ✨ Project Status: **COMPLETE & RUNNING** 🚀
-
-The application is **currently running** at **http://127.0.0.1:5000**
-
----
-
 In the Flask.zip file ectract all the data in flask folder to get remaining files and machine learning model
 
 ---
